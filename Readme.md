@@ -2,7 +2,7 @@
 
 #### Notebooks
 Main:
-- Pre-training of Denoising Autoencoder using **RBM** on mnist - ./hw2/mnist_RBM_test.ipynb
+- Pre-training of Denoising Autoencoder using **RBM** on mnist - ./deep-learning/hw2/mnist_RBM_test.ipynb
 - **Denoising Autoencoder** experiment on mnist - ./deep-learning/denoising_encoder_mnist.ipynb
 
 Extra:
